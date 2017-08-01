@@ -1,0 +1,7 @@
+/data
+/notes
+/backup
+/sensitive
+/__pycache__
+/.idea
+/.ipynb_checkpoints
